@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "id": "d8efb476-9172-4568-a3fd-70af2f5563c4",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.snowflakeprod_public.customers",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/d8efb476-9172-4568-a3fd-70af2f5563c4",
+            "tableType": "Regular"
+        },
+        {
+            "id": "458c3499-6b8b-4756-bb51-26088e8ec0a9",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.snowflakeprod_public.my_stage_table",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/458c3499-6b8b-4756-bb51-26088e8ec0a9",
+            "tableType": "Regular"
+        },
+        {
+            "id": "6c094033-4be0-45e1-b5ab-0ebb7e3a23e0",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.snowflakeprod_public.orders",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/6c094033-4be0-45e1-b5ab-0ebb7e3a23e0",
+            "tableType": "Regular"
+        },
+        {
+            "id": "7e393c57-0416-420c-b401-f9db25e44d95",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.snowflakeprod_public.raw_customers",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/7e393c57-0416-420c-b401-f9db25e44d95",
+            "tableType": "Regular"
+        },
+        {
+            "id": "1e9a8c7d-844a-4a91-ba2a-7cce856548fd",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.snowflakeprod_public.raw_orders",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/1e9a8c7d-844a-4a91-ba2a-7cce856548fd",
+            "tableType": "Regular"
+        },
+        {
+            "id": "d352776f-bef6-4bb0-8388-979dc2c57658",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.snowflakeprod_public.raw_payments",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/d352776f-bef6-4bb0-8388-979dc2c57658",
+            "tableType": "Regular"
+        },
+        {
+            "id": "9d526f93-2b0b-4331-8036-81652bf266da",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.snowflakeprod_public.stg_customers",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/9d526f93-2b0b-4331-8036-81652bf266da",
+            "tableType": "Regular"
+        },
+        {
+            "id": "5b98d154-be59-4db9-8f6a-7a8fbd9ecb48",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.snowflakeprod_public.stg_orders",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/5b98d154-be59-4db9-8f6a-7a8fbd9ecb48",
+            "tableType": "Regular"
+        },
+        {
+            "id": "7bc0cd02-089b-4734-97b4-f1abea185fde",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.snowflakeprod_public.stg_payments",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/7bc0cd02-089b-4734-97b4-f1abea185fde",
+            "tableType": "Regular"
+        }
+    ]
+}

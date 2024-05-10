@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "id": "31aabf67-ee92-4706-b0a4-3429cce5a5dd",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.dbt_test_new.customers",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/31aabf67-ee92-4706-b0a4-3429cce5a5dd",
+            "tableType": "Regular"
+        },
+        {
+            "id": "4d009edd-4db7-459f-a17d-b4289cef967a",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.dbt_test_new.orders",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/4d009edd-4db7-459f-a17d-b4289cef967a",
+            "tableType": "Regular"
+        },
+        {
+            "id": "8e67aab9-0241-4ee8-aaee-3512d0e8404a",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.dbt_test_new.raw_customers",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/8e67aab9-0241-4ee8-aaee-3512d0e8404a",
+            "tableType": "Regular"
+        },
+        {
+            "id": "75938728-1b4f-4a36-9308-5ba3a682bf9a",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.dbt_test_new.raw_orders",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/75938728-1b4f-4a36-9308-5ba3a682bf9a",
+            "tableType": "Regular"
+        },
+        {
+            "id": "bdccb019-afef-40dc-997e-da5e8d7df8e3",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.dbt_test_new.raw_payments",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/bdccb019-afef-40dc-997e-da5e8d7df8e3",
+            "tableType": "Regular"
+        },
+        {
+            "id": "e2a1ec8c-9378-4a9d-bdd4-347c85583e98",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.dbt_test_new.stg_customers",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/e2a1ec8c-9378-4a9d-bdd4-347c85583e98",
+            "tableType": "View"
+        },
+        {
+            "id": "2a5b5c81-a885-49e6-a9a4-2280343d3b52",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.dbt_test_new.stg_orders",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/2a5b5c81-a885-49e6-a9a4-2280343d3b52",
+            "tableType": "View"
+        },
+        {
+            "id": "657034c1-8b9d-42d5-877b-f7d224ff533d",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.dbt_test_new.stg_payments",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/657034c1-8b9d-42d5-877b-f7d224ff533d",
+            "tableType": "View"
+        }
+    ]
+}

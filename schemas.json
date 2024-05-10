@@ -1,0 +1,20 @@
+{
+    "data": [
+        "Ecommerce_Datawarehouse.dev.bigquery_db_beta_demo_dbt_jaffle",
+        "Ecommerce_Datawarehouse.dev.catalog_history",
+        "Ecommerce_Datawarehouse.dev.dbt_analysis",
+        "Ecommerce_Datawarehouse.dev.dbt_cli_e2e",
+        "Ecommerce_Datawarehouse.dev.dbt_jaffle",
+        "Ecommerce_Datawarehouse.dev.dbt_test",
+        "Ecommerce_Datawarehouse.dev.dbt_test_new",
+        "Ecommerce_Datawarehouse.dev.demo_dbt_jaffle",
+        "Ecommerce_Datawarehouse.dev.exclude_me",
+        "Ecommerce_Datawarehouse.dev.fivetran_metadata",
+        "Ecommerce_Datawarehouse.dev.information_schema",
+        "Ecommerce_Datawarehouse.dev.public",
+        "Ecommerce_Datawarehouse.dev.sample_data",
+        "Ecommerce_Datawarehouse.dev.snowflakeprod_jaffle_shop",
+        "Ecommerce_Datawarehouse.dev.snowflakeprod_public",
+        "Ecommerce_Datawarehouse.dev.test"
+    ]
+}

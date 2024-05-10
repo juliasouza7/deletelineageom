@@ -1,0 +1,154 @@
+{
+    "data": [
+        {
+            "id": "3b492bdd-002f-470c-89f0-6d18cee0bb3f",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.actor",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/3b492bdd-002f-470c-89f0-6d18cee0bb3f",
+            "tableType": "Regular"
+        },
+        {
+            "id": "9b0ec0e5-d867-466f-9210-b69de9232565",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.actor_from_sp",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/9b0ec0e5-d867-466f-9210-b69de9232565",
+            "tableType": "Regular"
+        },
+        {
+            "id": "da20e70e-37e5-4112-a444-19cab8eee5bd",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.actor_from_sp_3",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/da20e70e-37e5-4112-a444-19cab8eee5bd",
+            "tableType": "Regular"
+        },
+        {
+            "id": "118ce723-2cc9-43ba-8503-440d88d08cae",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.ca_table2",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/118ce723-2cc9-43ba-8503-440d88d08cae",
+            "tableType": "Regular"
+        },
+        {
+            "id": "67864ac4-0044-42ff-afee-320debc9f83c",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.customer_products",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/67864ac4-0044-42ff-afee-320debc9f83c",
+            "tableType": "Regular"
+        },
+        {
+            "id": "0c217370-a867-4df4-9d55-9b70881b74ca",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.customers",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/0c217370-a867-4df4-9d55-9b70881b74ca",
+            "tableType": "Regular"
+        },
+        {
+            "id": "4104e24b-34d4-4e8d-8180-ed6273e96583",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.employees",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/4104e24b-34d4-4e8d-8180-ed6273e96583",
+            "tableType": "Regular"
+        },
+        {
+            "id": "4ec6701b-60f4-4169-a2bd-d7da8ea68078",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.film",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/4ec6701b-60f4-4169-a2bd-d7da8ea68078",
+            "tableType": "Regular"
+        },
+        {
+            "id": "79dae22e-d0cd-48db-99eb-a08695761e08",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.film_actor",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/79dae22e-d0cd-48db-99eb-a08695761e08",
+            "tableType": "Regular"
+        },
+        {
+            "id": "b82e6139-c45e-427f-810c-adfd29b55b18",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.landmarks",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/b82e6139-c45e-427f-810c-adfd29b55b18",
+            "tableType": "Regular"
+        },
+        {
+            "id": "ca9e0bb3-6b62-4f78-b5be-9a7ae26f9806",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.language",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/ca9e0bb3-6b62-4f78-b5be-9a7ae26f9806",
+            "tableType": "Regular"
+        },
+        {
+            "id": "be3523a1-de43-4b2f-bfaf-1b209a209d00",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.new_view",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/be3523a1-de43-4b2f-bfaf-1b209a209d00",
+            "tableType": "View"
+        },
+        {
+            "id": "791086b8-9009-4bdb-8c9c-ddf9c9603860",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.new_view_1",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/791086b8-9009-4bdb-8c9c-ddf9c9603860",
+            "tableType": "View"
+        },
+        {
+            "id": "8a727882-27d9-48c1-b999-9728878a6a1f",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.newtable_old",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/8a727882-27d9-48c1-b999-9728878a6a1f",
+            "tableType": "Regular"
+        },
+        {
+            "id": "020ec743-a7f4-4c54-a75a-f8f470d07e2c",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.orders",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/020ec743-a7f4-4c54-a75a-f8f470d07e2c",
+            "tableType": "Regular"
+        },
+        {
+            "id": "5420dfbe-14ff-4376-a3c9-238f4c101846",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.products",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/5420dfbe-14ff-4376-a3c9-238f4c101846",
+            "tableType": "Regular"
+        },
+        {
+            "id": "111f6263-125b-4189-ba1f-d2d370b760df",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.s_customer",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/111f6263-125b-4189-ba1f-d2d370b760df",
+            "tableType": "Regular"
+        },
+        {
+            "id": "d7d5ce92-bdd2-471d-adfc-5248409b56cc",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.s_orderdetails",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/d7d5ce92-bdd2-471d-adfc-5248409b56cc",
+            "tableType": "Regular"
+        },
+        {
+            "id": "57cb8af7-6ceb-4e78-b5f1-62b3461d05e3",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.s_orders",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/57cb8af7-6ceb-4e78-b5f1-62b3461d05e3",
+            "tableType": "Regular"
+        },
+        {
+            "id": "2f7e8b05-d265-4d24-95ed-f4733739e54e",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.s_sales",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/2f7e8b05-d265-4d24-95ed-f4733739e54e",
+            "tableType": "Regular"
+        },
+        {
+            "id": "393679ad-6615-4bb0-bd31-b0c5d43b9745",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.sales_second",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/393679ad-6615-4bb0-bd31-b0c5d43b9745",
+            "tableType": "Regular"
+        },
+        {
+            "id": "f9a325b2-ab1c-456f-b641-9a82f10c8c10",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.sample_more_table",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/f9a325b2-ab1c-456f-b641-9a82f10c8c10",
+            "tableType": "Regular"
+        },
+        {
+            "id": "142c85b3-8a7c-4012-9b40-a1d1f15703ca",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.sensitive_customers",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/142c85b3-8a7c-4012-9b40-a1d1f15703ca",
+            "tableType": "Regular"
+        },
+        {
+            "id": "cc82a38a-74a6-4b9a-ab64-1c228259287b",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.table_constraints",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/cc82a38a-74a6-4b9a-ab64-1c228259287b",
+            "tableType": "Regular"
+        },
+        {
+            "id": "0a29c611-ea18-4d2e-abe9-3ab7aba518e3",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.test.vw_film_actor_info",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/0a29c611-ea18-4d2e-abe9-3ab7aba518e3",
+            "tableType": "View"
+        }
+    ]
+}

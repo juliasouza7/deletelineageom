@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "id": "9da461ad-051d-4750-8308-5f5fe273d36e",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.bigquery_db_beta_demo_dbt_jaffle.customers",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/9da461ad-051d-4750-8308-5f5fe273d36e",
+            "tableType": "Regular"
+        },
+        {
+            "id": "29cce401-e835-43e4-b0ee-e03e7ac3b3be",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.bigquery_db_beta_demo_dbt_jaffle.orders",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/29cce401-e835-43e4-b0ee-e03e7ac3b3be",
+            "tableType": "Regular"
+        }
+    ]
+}

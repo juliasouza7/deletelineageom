@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "id": "2ca93f15-8d7f-4d40-a493-7da6213a7e07",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.snowflakeprod_jaffle_shop.customers",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/2ca93f15-8d7f-4d40-a493-7da6213a7e07",
+            "tableType": "Regular"
+        },
+        {
+            "id": "c994acf8-e00d-45ea-9a84-8adb23400d23",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.snowflakeprod_jaffle_shop.orders",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/c994acf8-e00d-45ea-9a84-8adb23400d23",
+            "tableType": "Regular"
+        },
+        {
+            "id": "42fc47cd-beba-4099-92ab-80795f2f1039",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.snowflakeprod_jaffle_shop.raw_customers",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/42fc47cd-beba-4099-92ab-80795f2f1039",
+            "tableType": "Regular"
+        },
+        {
+            "id": "4e759ba9-30be-4ba1-ace9-6bdfe802506f",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.snowflakeprod_jaffle_shop.raw_orders",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/4e759ba9-30be-4ba1-ace9-6bdfe802506f",
+            "tableType": "Regular"
+        },
+        {
+            "id": "b9222bbb-0197-4226-ac68-2c5d2e7164a4",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.snowflakeprod_jaffle_shop.raw_payments",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/b9222bbb-0197-4226-ac68-2c5d2e7164a4",
+            "tableType": "Regular"
+        },
+        {
+            "id": "a6630d8c-e2ba-44de-b108-bc7958a05cee",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.snowflakeprod_jaffle_shop.stg_customers",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/a6630d8c-e2ba-44de-b108-bc7958a05cee",
+            "tableType": "Regular"
+        },
+        {
+            "id": "b6068d3c-88ec-432e-8a54-f791c17296d6",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.snowflakeprod_jaffle_shop.stg_orders",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/b6068d3c-88ec-432e-8a54-f791c17296d6",
+            "tableType": "Regular"
+        },
+        {
+            "id": "e7e1408e-c204-426c-ba60-6b8c72a9fb91",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.snowflakeprod_jaffle_shop.stg_payments",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/e7e1408e-c204-426c-ba60-6b8c72a9fb91",
+            "tableType": "Regular"
+        }
+    ]
+}

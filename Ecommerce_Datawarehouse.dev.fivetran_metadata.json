@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "id": "7f275826-5024-43ee-a459-12ffdfa11d67",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.fivetran_metadata.account",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/7f275826-5024-43ee-a459-12ffdfa11d67",
+            "tableType": "Regular"
+        },
+        {
+            "id": "ca957d3b-03e1-42af-b486-1dfdff8f4b12",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.fivetran_metadata.connector",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/ca957d3b-03e1-42af-b486-1dfdff8f4b12",
+            "tableType": "Regular"
+        },
+        {
+            "id": "4293de32-000a-4181-b1d2-2d4033105cf7",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.fivetran_metadata.connector_type",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/4293de32-000a-4181-b1d2-2d4033105cf7",
+            "tableType": "Regular"
+        },
+        {
+            "id": "9c5b7b65-ff0d-4d0c-a7ed-1277da6a87b9",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.fivetran_metadata.destination",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/9c5b7b65-ff0d-4d0c-a7ed-1277da6a87b9",
+            "tableType": "Regular"
+        },
+        {
+            "id": "f36328a6-c178-42b9-81c7-858cba27c344",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.fivetran_metadata.incremental_mar",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/f36328a6-c178-42b9-81c7-858cba27c344",
+            "tableType": "Regular"
+        },
+        {
+            "id": "f34acf64-1070-4472-961b-d279cea5305e",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.fivetran_metadata.log",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/f34acf64-1070-4472-961b-d279cea5305e",
+            "tableType": "Regular"
+        },
+        {
+            "id": "5368b5a9-02e4-484d-9069-16ec34448d2d",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.fivetran_metadata.resource_membership",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/5368b5a9-02e4-484d-9069-16ec34448d2d",
+            "tableType": "Regular"
+        },
+        {
+            "id": "4fe706f3-8215-4b78-8e83-6d7bcf76c4c6",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.fivetran_metadata.role",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/4fe706f3-8215-4b78-8e83-6d7bcf76c4c6",
+            "tableType": "Regular"
+        },
+        {
+            "id": "c937a9de-9213-405e-b800-1423815affc0",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.fivetran_metadata.role_permission",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/c937a9de-9213-405e-b800-1423815affc0",
+            "tableType": "Regular"
+        },
+        {
+            "id": "500777bb-2376-4c7b-b164-f22425035ab4",
+            "fullyQualifiedName": "Ecommerce_Datawarehouse.dev.fivetran_metadata.user",
+            "href": "http://sandbox.open-metadata.org/api/v1/tables/500777bb-2376-4c7b-b164-f22425035ab4",
+            "tableType": "Regular"
+        }
+    ]
+}
