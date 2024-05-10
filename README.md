@@ -1,4 +1,4 @@
-# Limpeza de Linhagem no OpenMetadata
+# Limpeza de linhagem no OpenMetadata
 
 Este script em Python fornece um processo automatizado para limpar a linhagem entre tabelas em um schema usando a API do OpenMetadata. Ele consiste em várias funções para buscar schemas, criar arquivos, extrair linhagem e excluir linhagem.
 
@@ -16,7 +16,7 @@ Este script em Python fornece um processo automatizado para limpar a linhagem en
 3. **extract_and_save_lineage**: extrai a linhagem para cada tabela a partir dos arquivos JSON obtidos anteriormente e salva os resultados em um arquivo JSON local.
 4. **delete_lineage**: processa os resultados de linhagem para identificar tabelas relacionadas e deleta a linhagem entre elas usando a API do OpenMetadata.
 
-## Notas Adicionais
+## Notas adicionais
 - Personalize as funções de acordo com seus requisitos específicos.
 - Utilize o ambiente de sandbox do OpenMetadata para testar requisições de API antes de implementá-las em ambientes de produção.
 
